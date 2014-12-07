@@ -8,7 +8,7 @@ Android-ObservableScrollView
 
 
 
-###添加ForEclipse 工程，可运行于eclips  注意，本项目引用Android 5.0类库，因此请使用Andriod 5.0（API21）编译工具编译
+###添加ForEclipse 工程，可运行于eclips.  注意:本项目引用Android 5.0类库，因此请使用Andriod 5.0（API.21）编译工具编译
 Android library to observe scroll events on scrollable views.  
 It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop  and may be helpful to implement look and feel of Material Design apps.
 
