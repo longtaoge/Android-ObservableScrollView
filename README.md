@@ -5,6 +5,10 @@ Android-ObservableScrollView
 [![Maven Central](http://img.shields.io/maven-central/v/com.github.ksoichiro/android-observablescrollview.svg?style=flat)](https://github.com/ksoichiro/Android-ObservableScrollView/releases/latest)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--ObservableScrollView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1136)
 
+
+
+
+###添加ForEclipse 工程，可运行于eclips  注意，本项目引用Android 5.0类库，因此请使用Andriod 5.0（API21）编译工具编译
 Android library to observe scroll events on scrollable views.  
 It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop  and may be helpful to implement look and feel of Material Design apps.
 
